@@ -3,8 +3,8 @@ import numpy as np
 import cv2
 
 class SocketInfo():
-    HOST = "10.252.101.0"
-    PORT = 8888
+    HOST = "000.000.000.000"
+    PORT = 1234
     ADDR = (HOST, PORT)
     print(ADDR)
 
